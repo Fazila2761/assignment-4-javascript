@@ -15,5 +15,6 @@ if(lipstic < myBudget){
 }
 
 else{
+ 
     console.log("kajol kinbo")
 }
